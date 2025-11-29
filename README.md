@@ -1,6 +1,6 @@
 # Hi, I'm Pete 👋
 
-**Service Delivery & Transformation Specialist** with 20+ years of experience driving digital transformation and operational excellence in the telecommunications industry.
+**Service Delivery & Transformation Specialist** with 25+ years of experience delivering successful projects, improving operational excellence and driving business transformation in the telecommunications industry.
 
 ## About Me
 
@@ -21,11 +21,11 @@ Currently, I'm focused on leveraging my telecommunications expertise in **Busine
 
 🔍 **Open to opportunities** in Business Analysis, Product Management, and Programme Management
 📍 **Location**: Remote or Hybrid roles preferred
-🎓 **Recent Achievement**: BCS Foundation Certificate in Business Analysis
+
 
 ## Experience Highlights
 
-- 20+ years in telecommunications industry
+- 25+ years in telecommunications industry
 - Strategic roles at **BT Group** and **Nokia**
 - Expertise in telco cloud architecture and deployment
 - Track record in API platform development and monetization
